@@ -12,8 +12,8 @@ function setup() {
   // createCanvas(700, 700);  //test scr
   
   if(width<height){
-	  t=6;
-	  l=110;
+	  t=6.5;
+	  l=115;
   }
     
   
